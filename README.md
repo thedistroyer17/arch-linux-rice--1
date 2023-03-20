@@ -13,6 +13,5 @@
 ![2023-03-20-10:54:03-screenshot](https://user-images.githubusercontent.com/118053362/226256319-7beb2cbf-366e-478d-ade4-ab11319fef82.png)
 ![2023-03-20-10:55:05-screenshot](https://user-images.githubusercontent.com/118053362/226256345-d860e54c-c7e1-418e-93dc-6bf1efd05578.png)
 ![2023-03-20-10:54:23-screenshot](https://user-images.githubusercontent.com/118053362/226256355-ee3346d8-70b7-435f-a19d-d18b6f35f375.png)
-![2023-03-20-10:53:21-screenshot](https://user-images.githubusercontent.com/118053362/226258055-9c179238-9270-41b0-afa5-b0ebad62c332.png)
 
 all the possible dotfiles and wallapers are provided ....

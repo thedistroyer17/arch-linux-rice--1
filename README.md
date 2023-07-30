@@ -1,6 +1,6 @@
 ###currently discontinued
 
-# #arch-linux-rice--1
+# #arch-linux-setup--1
 1. Distro : ENDEVOUR OS - https://endeavouros.com/
 2. window manager : i3
 3. application launcher : rofi 

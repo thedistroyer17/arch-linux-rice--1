@@ -1,3 +1,4 @@
+###currently discontinued
 
 # #arch-linux-rice--1
 1. Distro : ENDEVOUR OS - https://endeavouros.com/
